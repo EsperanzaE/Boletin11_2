@@ -1,0 +1,7 @@
+Mariquilla,Blanco,111A,1,La borbolla
+Pepe,Rodriguez Rodriguez Rodriguez Pérez Pérez Enciso B,A1,1,felipe I
+Juan,Gutiérrez,B2,2,felipe II
+Pepa,Blanco,C3,1,La borbolla
+Juana,Rubio,D4,3,Asunción
+Jesús,Ridruejo,E5,5,felipe V
+Juan,Belmonte,0000AF,3,Asunción

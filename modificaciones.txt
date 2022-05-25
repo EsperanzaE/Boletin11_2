@@ -1,0 +1,20 @@
+Pepa,Blanco,C3,1,La borbolla
+Juana,Rubio,D4,3,Asunción
+Pepa,Blanco,C3,1,La borbolla
+Juana,Rubio,D4,3,Asunción
+Pepa,Blanco,C3,1,La borbolla
+Juana,Rubio,D4,3,Asunción
+Pepa,Blanco,C3,1,La borbolla
+Juana,Rubio,D4,3,Asunción
+Pepa,Blanco,C3,1,La borbolla
+Juana,Rubio,D4,3,Asunción
+Pepa,Blanco,C3,1,La borbolla
+Juana,Rubio,D4,3,Asunción
+Pepa,Blanco,C3,1,La borbolla
+Juana,Rubio,D4,3,Asunción
+Pepa,Blanco,C3,1,La borbolla
+Juana,Rubio,D4,3,Asunción
+Pepa,Blanco,C3,1,La borbolla
+Juana,Rubio,D4,3,Asunción
+Pepa,Blanco,C3,1,La borbolla
+Juana,Rubio,D4,3,Asunción
